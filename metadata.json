@@ -1,0 +1,6 @@
+{
+  "name": "Pantry Roulette — Gemma 4 AI Meal Variety Engine",
+  "description": "Open-source Gemma 4 meal variety engine guaranteeing 5 distinct dinners from your fridge with zero repetitive meals, budget swaps, and YouTube guides.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
